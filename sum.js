@@ -1,3 +1,5 @@
+// BASIC Calutator Program in JavaScript
+
 function calculator() {
     console.log("Basic Calculator");
     console.log("1. Addition");
